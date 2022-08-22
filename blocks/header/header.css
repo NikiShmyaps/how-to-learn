@@ -1,0 +1,10 @@
+.header {
+  box-sizing: border-box;
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  display: flex;
+  align-items: center;
+  background: var(--background-gray);
+}
